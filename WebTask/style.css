@@ -1,0 +1,33 @@
+body{
+	background-color: lightgray;
+}
+header,.block,footer{
+		padding: 20px;
+	text-align: center;
+}
+header, footer{
+	width:90%;
+	color: gray;
+	border: 1px solid gray;
+	background-color: white;
+	margin: auto;
+}
+#body{
+	width:90%;
+	margin-top: 20px;
+	margin: auto;
+}
+.section{
+	display: inline-block;
+	width: 49.8299%;
+}
+
+.block{
+	background-color: lightblue;
+	color: darkblue;
+	border: 1px solid gray;
+	width:90%;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
