@@ -1,0 +1,6 @@
+D:\_Курсы\Test2\Test2\bin\Debug\Test2.exe.config
+D:\_Курсы\Test2\Test2\bin\Debug\Test2.exe
+D:\_Курсы\Test2\Test2\bin\Debug\Test2.pdb
+D:\_Курсы\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+D:\_Курсы\Test2\Test2\obj\Debug\Test2.exe
+D:\_Курсы\Test2\Test2\obj\Debug\Test2.pdb
